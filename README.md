@@ -1,96 +1,100 @@
-# Майбасар Диас
+# Dias Maibassar
 
-### Product-minded developer who builds, improves and ships
+### I build websites and web products for businesses.
 
-Астана · Казахстан
+Astana, Kazakhstan 🇰🇿
 
-Беру конкретную задачу → разбираюсь в ней → нахожу оптимальное решение → делаю → довожу до рабочего результата.
+I take a business problem → turn it into a clear digital solution → build it → ship it.
 
-Работаю как с созданием новых продуктов и функций, так и с **улучшением, оптимизацией и развитием уже существующих систем**.
+**Currently focused on:**
 
-Работаю проектно с:
-
-* Web & landing pages
-* Mobile features & MVPs
-* Telegram bots
-* Automation
-* AI-powered features
-* Product & UX improvements
-* System optimization
-* Gamification
+* Business websites
+* Landing pages
+* Custom web applications
+* MVPs and product prototypes
+* UI/UX improvements
 
 ---
 
-## Featured Project
+## What I Build
+
+### 🌐 Business Websites
+
+Modern, fast, mobile-first websites built around the customer's journey and business goals.
+
+### 🧩 Web Applications
+
+Custom interfaces for businesses that need more than a simple website — dashboards, workflows, internal tools and client-facing systems.
+
+### 🚀 MVPs
+
+From idea to working product: structure, UI, development and launch.
+
+---
+
+## Featured Work
 
 ### proCEOss
 
-Мобильное приложение для фокуса и продуктивности, разработанное и выпущенное мной самостоятельно.
+A productivity and focus application built and shipped independently.
 
-**За ~3 месяца я прошёл весь путь от идеи до релиза:**
+I worked on the project from idea to release:
 
-* product concept
+* Product concept
 * UX/UI
-* development
-* gamification
-* monetization
-* localization
-* release
-* store listing
+* Development
+* Gamification
+* Monetization
+* Localization
+* Release
+* Store listing
 
-**Tech:**
-Flutter · Isar · Firebase/Firestore · RevenueCat · FCM · Unity · Codemagic
+**Tech:** Flutter · Isar · Firebase/Firestore · RevenueCat · FCM · Unity · Codemagic
 
-**Особенность продукта:** прогресс пользователя зависит не от планирования, а от реально выполненной работы и времени фокуса.
+The app turns real focused work into measurable progress instead of rewarding endless planning.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.proceoss.app)
 
 ---
 
-## What I Can Build
+### Real Estate Web Projects
 
-**Web**
-Landing pages, websites, fixes, integrations and internal web systems
+A collection of custom mobile-first website concepts created for real-estate businesses in Astana.
 
-**Mobile**
-Features, prototypes, MVPs and product improvements
+**Projects:**
 
-**Automation**
-Bots, workflows and AI-powered tools
+* [Районы](https://raiony.lovable.app)
+* [Apartment Keys](https://apartment-keyss.lovable.app)
+* [YourTup](https://yourtup.lovable.app)
+* [Altyn Shanyraq](https://altyn-shanyraq.lovable.app)
 
-**System Optimization**
-Разбор существующих процессов, поиск слабых мест, упрощение рабочих сценариев и разработка решений под конкретные задачи бизнеса
-
-**Product**
-MVPs, UX improvements, gamification systems and product refinement
+The goal of these projects was not to make generic templates, but to demonstrate how a real estate business can present its properties, services and customer journey more effectively.
 
 ---
 
 ## How I Work
 
-**1. Task**
-Определяем конкретную задачу, результат, scope, срок и цену.
+**01 — Understand**
 
-**2. Analyze**
-Разбираюсь в текущем процессе или существующей системе и нахожу, что можно улучшить, упростить или оптимизировать.
+I define the actual business problem, required result, scope and deadline.
 
-**3. Build**
-Разрабатываю решение и довожу его до рабочего состояния.
+**02 — Build**
 
-**4. Deliver**
-Передаю готовый результат, исходники и всё необходимое для запуска.
+I design and develop the solution around the real use case.
+
+**03 — Ship**
+
+I launch the product and hand over everything needed to continue using it.
 
 ---
 
 ## About
 
-Мне интереснее не просто писать код, а **разбираться в задаче и превращать её в работающий результат**.
+I'm interested in building products that solve real problems, not just writing code for the sake of it.
 
-Могу создавать продукт с нуля или подключаться к уже существующей системе, находить слабые места и улучшать отдельные процессы, интерфейсы и функциональность.
+I've built and shipped my own mobile product and now focus on helping businesses turn ideas and processes into working digital products.
 
-Использую AI-инструменты в разработке, чтобы быстрее проходить путь от идеи до результата, при этом отвечаю за итоговый продукт сам.
-
-Основной кейс — собственное приложение, которое я самостоятельно разработал и выпустил в Google Play.
+I use modern development and AI-assisted tools to move faster, but I take responsibility for the final result myself.
 
 ---
 
@@ -98,4 +102,6 @@ MVPs, UX improvements, gamification systems and product refinement
 
 **Telegram:** [@dyoha_creator](https://t.me/dyoha_creator)
 
-Открыт к проектной работе, отдельным фичам, улучшению существующих систем и задачам под ключ.
+Available for:
+
+**Business websites · Web applications · MVPs · Product development**
